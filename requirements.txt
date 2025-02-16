@@ -8,3 +8,5 @@ arxiv
 pymupdf
 langchain-openai
 langchain_chroma
+langchain-ollama
+faiss-cpu
