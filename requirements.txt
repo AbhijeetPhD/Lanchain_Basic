@@ -10,3 +10,4 @@ langchain-openai
 langchain_chroma
 langchain-ollama
 faiss-cpu
+langchain-groq
